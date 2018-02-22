@@ -1,0 +1,44 @@
+#container{
+    background-color: darkcyan;
+}
+
+body{
+    background-color: lightskyblue;
+}
+
+#logo{
+    width: 45%;
+    margin-left: 28%;
+}
+
+#btn{
+    width: 100%;
+}
+
+#titulo{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif bold;
+    text-align: center
+}
+
+#redes{
+    float: right;
+    width: 10%;
+    border-radius: 50%;
+}
+
+#card{
+    background-color:rgba(143, 139, 139, 0.75)
+}
+
+#card-2{
+    background-color:rgba(248, 103, 98, 0.75)
+}
+
+#icono{
+    width: 75%;
+}
+
+#chester{
+    width: 100%;
+}
